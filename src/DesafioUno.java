@@ -1,4 +1,4 @@
-public class Desafio1 {
+public class DesafioUno {
 
     public static void main(String[] args) {
         //desafio 1
